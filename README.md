@@ -5,8 +5,7 @@
 I am hard-working and responsible person. I often have to deal with difficult situations and take quick decisions.
 
 Skills: WEBPACK / TS / JS / HTML / CSS
-[<img src='[https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg]' alt='linkedin' height='40'>]
-https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 - 🔭 I’m currently working on https://taupe-toffee-746a60.netlify.app/ 
 
